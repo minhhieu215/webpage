@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/minhhieu215/webpage/static/css/main.b38982b5.css",
-    "main.js": "/minhhieu215/webpage/static/js/main.bf9ab484.js",
-    "static/js/787.332d5258.chunk.js": "/minhhieu215/webpage/static/js/787.332d5258.chunk.js",
+    "main.js": "/minhhieu215/webpage/static/js/main.874f77e4.js",
+    "static/js/787.98498dfe.chunk.js": "/minhhieu215/webpage/static/js/787.98498dfe.chunk.js",
     "static/media/phone.png": "/minhhieu215/webpage/static/media/phone.840bb8b5e79488785f24.png",
     "static/media/banner.png": "/minhhieu215/webpage/static/media/banner.7d6631cc378e1da4d91a.png",
     "static/media/teacher.png": "/minhhieu215/webpage/static/media/teacher.353b26f306a66789e622.png",
@@ -12,11 +12,11 @@
     "static/media/slick.woff": "/minhhieu215/webpage/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/minhhieu215/webpage/index.html",
     "main.b38982b5.css.map": "/minhhieu215/webpage/static/css/main.b38982b5.css.map",
-    "main.bf9ab484.js.map": "/minhhieu215/webpage/static/js/main.bf9ab484.js.map",
-    "787.332d5258.chunk.js.map": "/minhhieu215/webpage/static/js/787.332d5258.chunk.js.map"
+    "main.874f77e4.js.map": "/minhhieu215/webpage/static/js/main.874f77e4.js.map",
+    "787.98498dfe.chunk.js.map": "/minhhieu215/webpage/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b38982b5.css",
-    "static/js/main.bf9ab484.js"
+    "static/js/main.874f77e4.js"
   ]
 }
