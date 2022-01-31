@@ -339,6 +339,9 @@ text-align: center;
 .menu_button{
   display:none
 }
+.navbar_responsive{
+  display:none;
+}
 @media screen and (max-width:400px) {
       .header li,.header_btn{
         display:none;
@@ -395,7 +398,8 @@ text-align: center;
   padding-inline: var(--white_space);
   background: #fff7ea;
   transform: translateX(120%);
-  transition: all .2s linear
+  transition: all .2s linear;
+  display:block;
 }
 .navbar_responsive.show{
   transform: translateX(0);

@@ -2,7 +2,7 @@
   "name": "cellphones",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/minhhieu215/webpage/",
+  "homepage": "https://github.com/minhhieu215/webpage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
