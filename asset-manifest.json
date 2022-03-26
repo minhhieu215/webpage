@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.b8914105.css",
-    "main.js": "/webpage/static/js/main.36ae260b.js",
-    "static/js/787.98498dfe.chunk.js": "/webpage/static/js/787.98498dfe.chunk.js",
-    "static/media/phone.png": "/webpage/static/media/phone.840bb8b5e79488785f24.png",
-    "static/media/banner.png": "/webpage/static/media/banner.7d6631cc378e1da4d91a.png",
-    "static/media/teacher.png": "/webpage/static/media/teacher.353b26f306a66789e622.png",
-    "static/media/slick.svg": "/webpage/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/webpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/webpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/webpage/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/webpage/index.html",
-    "main.b8914105.css.map": "/webpage/static/css/main.b8914105.css.map",
-    "main.36ae260b.js.map": "/webpage/static/js/main.36ae260b.js.map",
-    "787.98498dfe.chunk.js.map": "/webpage/static/js/787.98498dfe.chunk.js.map"
+    "main.css": "/minhhieu215/webpage.github.io/static/css/main.4c3aae30.css",
+    "main.js": "/minhhieu215/webpage.github.io/static/js/main.76863e68.js",
+    "static/js/787.98498dfe.chunk.js": "/minhhieu215/webpage.github.io/static/js/787.98498dfe.chunk.js",
+    "static/media/phone.png": "/minhhieu215/webpage.github.io/static/media/phone.840bb8b5e79488785f24.png",
+    "static/media/banner.png": "/minhhieu215/webpage.github.io/static/media/banner.7d6631cc378e1da4d91a.png",
+    "static/media/teacher.png": "/minhhieu215/webpage.github.io/static/media/teacher.353b26f306a66789e622.png",
+    "static/media/slick.svg": "/minhhieu215/webpage.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/minhhieu215/webpage.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/minhhieu215/webpage.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/minhhieu215/webpage.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/minhhieu215/webpage.github.io/index.html",
+    "main.4c3aae30.css.map": "/minhhieu215/webpage.github.io/static/css/main.4c3aae30.css.map",
+    "main.76863e68.js.map": "/minhhieu215/webpage.github.io/static/js/main.76863e68.js.map",
+    "787.98498dfe.chunk.js.map": "/minhhieu215/webpage.github.io/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8914105.css",
-    "static/js/main.36ae260b.js"
+    "static/css/main.4c3aae30.css",
+    "static/js/main.76863e68.js"
   ]
 }
