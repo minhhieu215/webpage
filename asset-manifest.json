@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/minhhieu215/webpage/static/css/main.b38982b5.css",
-    "main.js": "/minhhieu215/webpage/static/js/main.874f77e4.js",
-    "static/js/787.98498dfe.chunk.js": "/minhhieu215/webpage/static/js/787.98498dfe.chunk.js",
-    "static/media/phone.png": "/minhhieu215/webpage/static/media/phone.840bb8b5e79488785f24.png",
-    "static/media/banner.png": "/minhhieu215/webpage/static/media/banner.7d6631cc378e1da4d91a.png",
-    "static/media/teacher.png": "/minhhieu215/webpage/static/media/teacher.353b26f306a66789e622.png",
-    "static/media/slick.svg": "/minhhieu215/webpage/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/minhhieu215/webpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/minhhieu215/webpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/minhhieu215/webpage/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/minhhieu215/webpage/index.html",
-    "main.b38982b5.css.map": "/minhhieu215/webpage/static/css/main.b38982b5.css.map",
-    "main.874f77e4.js.map": "/minhhieu215/webpage/static/js/main.874f77e4.js.map",
-    "787.98498dfe.chunk.js.map": "/minhhieu215/webpage/static/js/787.98498dfe.chunk.js.map"
+    "main.css": "/webpage/static/css/main.b8914105.css",
+    "main.js": "/webpage/static/js/main.36ae260b.js",
+    "static/js/787.98498dfe.chunk.js": "/webpage/static/js/787.98498dfe.chunk.js",
+    "static/media/phone.png": "/webpage/static/media/phone.840bb8b5e79488785f24.png",
+    "static/media/banner.png": "/webpage/static/media/banner.7d6631cc378e1da4d91a.png",
+    "static/media/teacher.png": "/webpage/static/media/teacher.353b26f306a66789e622.png",
+    "static/media/slick.svg": "/webpage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/webpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/webpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/webpage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/webpage/index.html",
+    "main.b8914105.css.map": "/webpage/static/css/main.b8914105.css.map",
+    "main.36ae260b.js.map": "/webpage/static/js/main.36ae260b.js.map",
+    "787.98498dfe.chunk.js.map": "/webpage/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b38982b5.css",
-    "static/js/main.874f77e4.js"
+    "static/css/main.b8914105.css",
+    "static/js/main.36ae260b.js"
   ]
 }
